@@ -16,6 +16,8 @@
 - 🎖 [SUAPC 2020 Summer 4th Prize](https://icpc-sinchon.github.io/suapc)
 - 🎖 [SUAPC 2021 Winter 9th Prize](https://icpc-sinchon.github.io/suapc)
 
+### BOJ Tier
+
 <p align="center">
   <a href="https://solved.ac/ficy">
 
