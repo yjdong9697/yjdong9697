@@ -10,7 +10,7 @@
 
 - 🌱 [ICPC Sinchon](http://icpc-sinchon.github.io/) Organizer (2021.1 ~ )
 - 🎓 Member of Morgorithm (Yonsei ICPC Club) (2020.3 ~ )
-- 🎓 Member of Yai (Yonsei AI conference) (2021.7 ~ )
+- 🎓 Member of [Yai](https://www.facebook.com/yonseiAI) (Yonsei AI conference) (2021.7 ~ )
 
 ### Prize
 
