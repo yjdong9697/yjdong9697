@@ -8,7 +8,8 @@
 
 ### Activity
 
-- 🌱 [ICPC Sinchon](http://icpc-sinchon.github.io/) Organizer (2021.1 ~ )
+- 🌱 [ICPC Sinchon](http://icpc-sinchon.github.io/) Lead (2021.9 ~ )
+- 🌱 [ICPC Sinchon](http://icpc-sinchon.github.io/) Organizer (2021.1 ~ 2021.8)
 - 🎓 [Yai](https://www.facebook.com/yonseiAI) (Yonsei AI conference) Organizer (2021.7 ~ )
 - 🎓 Member of Morgorithm (Yonsei ICPC Club) (2020.3 ~ )
 
