@@ -10,7 +10,7 @@
 - <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Mathematica-DD1100?style=flat&logo=Wolfram&logoColor=white"/>
 
 ## Blog
-- [비룡의 컴퓨터이야기](https://viyoung.tistory.com)
+- [비룡의 컴퓨터이야기 / Tistory](https://viyoung.tistory.com)
 
 ## Project
 - [Oracle of Arxiv](https://github.com/YonseiAI-NLP-Group/Oracle-of-Arxiv) : A Study on Keyword Analysis and Sentence Generation for Predicting New Technologies 
