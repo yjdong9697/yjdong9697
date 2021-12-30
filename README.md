@@ -18,13 +18,5 @@
 - 🎖 [SUAPC 2021 Summer 4th Prize](https://icpc-sinchon.github.io/suapc)
 
 ## BOJ Tier
-
-<p align="center">
-  <a href="https://solved.ac/ficy">
-
-  ![solved.ac tier](http://mazassumnida.wtf/api/pastel/generate_badge?boj=ficy)
-
-  </a> 
-
-</p>
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ficy)](https://solved.ac/ficy)
 
