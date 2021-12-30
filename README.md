@@ -9,13 +9,15 @@
 - <img src="https://img.shields.io/badge/Pytorch-FF3232?style=flat&logo=Pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-1E8449?style=flat&logo=Numpy&logoColor=white">
 - <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Mathematica-DD1100?style=flat&logo=Wolfram&logoColor=white"/>
 
-### Prize
+## Project
+- [Oracle of Arxiv](https://github.com/YonseiAI-NLP-Group/Oracle-of-Arxiv) : A Study on Keyword Analysis and Sentence Generation for Predicting New Technologies 
 
+## Prize
 - 🎖 [SUAPC 2020 Summer 4th Prize](https://icpc-sinchon.github.io/suapc)
 - 🎖 [SUAPC 2021 Winter 9th Prize](https://icpc-sinchon.github.io/suapc)
 - 🎖 [SUAPC 2021 Summer 4th Prize](https://icpc-sinchon.github.io/suapc)
 
-### BOJ Tier
+## BOJ Tier
 
 <p align="center">
   <a href="https://solved.ac/ficy">
