@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hi,%20I'm%20YongHoon👋&fontSize=36&animation=fadeIn&fontAlignY=36)
 - Yonsei University, Computer science
 - [Yai](https://www.facebook.com/yonseiAI) (Yonsei AI conference) Organizer (2021.7 ~ 2022.2)
-- Member of [Yai](https://www.facebook.com/yonseiAI) (Yonsei AI conference) (2022.2 ~ )
+- Member of [Yai](https://www.facebook.com/yonseiAI) (Yonsei AI conference) (2021.7 ~ )
 - Member of Morgorithm (Yonsei ICPC Club) (2020.3 ~ )
 
 ## Skills
