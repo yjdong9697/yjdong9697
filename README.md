@@ -11,12 +11,13 @@
 - <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Mathematica-DD1100?style=flat&logo=Wolfram&logoColor=white"/>
 
 
-
 ## Blog
 - https://viyoung.tistory.com
 
 ## Project
 - [Oracle of Arxiv](https://github.com/YonseiAI-NLP-Group/Oracle-of-Arxiv) : A Study on Keyword Analysis and Sentence Generation for Predicting New Technologies 
+- [POst WEngeR]([https://github.com/YonseiAI-NLP-Group/Oracle-of-Arxiv](https://github.com/yonseivnlclassroom/final-project-team)) : Predicting weekly wage of football player
+
 
 ## Prize
 - 🎖 [SUAPC 2020 Summer 4th Prize](https://icpc-sinchon.github.io/suapc)
