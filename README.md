@@ -16,7 +16,7 @@
 
 ## Project
 - [Oracle of Arxiv](https://github.com/YonseiAI-NLP-Group/Oracle-of-Arxiv) : A Study on Keyword Analysis and Sentence Generation for Predicting New Technologies 
-- [POst WEngeR]([https://github.com/YonseiAI-NLP-Group/Oracle-of-Arxiv](https://github.com/yonseivnlclassroom/final-project-team)) : Predicting weekly wage of football player
+- [POst WEngeR](https://github.com/YonseiAI-NLP-Group/Oracle-of-Arxiv](https://github.com/yonseivnlclassroom/final-project-team)) : Predicting weekly wage of football player
 
 
 ## Prize
