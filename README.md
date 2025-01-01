@@ -3,9 +3,7 @@
 - Yonsei University, Computer science & Mathematics (GPA : 4.17 / 4.3)
 - Uppsala University, Computer science (2023.09 ~ 2024.1)
 - [OptiML Lab, KAIST AI](https://chulheeyun.github.io/) (2024.07 ~ Continue)
-- [Yai](https://www.facebook.com/yonseiAI) (Yonsei AI conference) Organizer (2021.7 ~ 2022.2)
 - Member of [Yai](https://www.facebook.com/yonseiAI) (Yonsei AI conference) (2021.7 ~ 2023.8)
-- Member of Morgorithm (Yonsei ICPC Club) (2020.3 ~ 2022.12)
 
 ## Skills
 - <img src="https://img.shields.io/badge/C-172B4D?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-1E88E5?style=flat&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
