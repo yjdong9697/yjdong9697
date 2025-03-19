@@ -2,7 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hi,%20I'm%20YongHoon👋&fontSize=36&animation=fadeIn&fontAlignY=36)
 - Yonsei University, Computer science & Mathematics (GPA : 4.17 / 4.3)
 - Uppsala University, Computer science (2023.09 ~ 2024.1)
-- [OptiML Lab, KAIST AI](https://chulheeyun.github.io/) (2024.07 ~ Continue)
+- [ALIN Lab, KAIST AI](https://alinlab.kaist.ac.kr/shin.html) (2025.03 ~ Continue)
+- [OptiML Lab, KAIST AI](https://chulheeyun.github.io/) (2024.07 ~ 2025.02)
 - Member of [Yai](https://www.facebook.com/yonseiAI) (Yonsei AI conference) (2021.7 ~ 2023.8)
 
 ## Skills
